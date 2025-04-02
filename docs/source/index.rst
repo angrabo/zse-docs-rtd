@@ -90,7 +90,7 @@ Termin 2
 Obraz
 =====
 
-.. image:: https://example.com/image.png
+.. image:: https://media.istockphoto.com/id/178375366/pl/zdj%C4%99cie/pe%C5%82ny-profil-sphynx-piramida-giza-egipt.jpg?s=612x612&w=0&k=20&c=Ie2VghcXlzKdOH-jcs5U-uUbJQyX6PyBWn_gBljbsvs=
    :alt: Przykładowy obrazek
    :width: 600px
    :align: center
