@@ -72,7 +72,7 @@ Termin 2
 Obraz
 =====
 
-.. image:: https://example.com/image.png
+.. image:: https://picsum.photos/536/354
    :alt: Przykładowy obrazek
    :width: 600px
    :align: center
