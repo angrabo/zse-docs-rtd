@@ -1,90 +1,49 @@
-
+===========
 superstrona
-========
+===========
 
-Poziom 1
---------
-
-### Poziom 2
-#### Poziom 3
-##### Poziom 4
-
-Akapit tekstowy
-===============
-
-To jest przykładowy akapit tekstowy, który może zawierać dowolną treść. Możesz opisać tutaj, o czym jest Twoja dokumentacja lub szczegóły implementacji. Treść może zawierać różne elementy formatowania, takie jak **pogrubienie** czy *kursywa*.
-
-Akapit informacyjny
-====================
-
-**Note:**
-  To jest informacja pomocnicza, która powinna zostać uwzględniona przez użytkowników. Może to być np. przypomnienie o ważnym szczególe, który może zostać pominięty.
-
-**Tip:**
-  Używaj tego typu akapitów, aby przekazać praktyczne porady lub optymalizacje w działaniu.
-
-Fragment kodu
-=============
-
-Liniowy:
-```python
-print("Hello, World!")
-```
-
-Blokowy:
-```python
-def greet(name):
-    print(f"Hello, {name}!")
-
-greet("Alice")
-```
-
-Odnośnik
+Nagłówek 1
 =========
 
-**Lokaly RtD:**
+Nagłówek 2
+---------
 
-Zobacz [sekcję o nagłówkach](#nagłówki) dla więcej informacji.
+Nagłówek 3
+^^^^^^^^^
 
-**Zewnętrzny - Inny serwis:**
+Nagłówek 4
+~~~~~~~~~
 
-Sprawdź [oficjalną dokumentację Python](https://www.python.org/doc/) w celu uzyskania więcej informacji na temat języka Python.
+To jest przykładowy akapit tekstowy.
 
-Listy
-======
+.. note:: To jest akapit informacyjny (Note).
 
-Numerowana lista:
-1. Pierwszy krok
-2. Drugi krok
-3. Trzeci krok
+.. tip:: To jest wskazówka (Tip).
 
-Wypunktowana lista:
-- Punkt pierwszy
-- Punkt drugi
-- Punkt trzeci
+``print("Hello, World!")``
 
-Lista definicji:
-Termin 1
-   Definicja pierwsza.
-Termin 2
-   Definicja druga.
+.. code-block:: python
 
-Obraz
-=====
+    print("Hello, World!")
+
+`superlink <https://google.com>`_
+
+1. Pierwszy element
+2. Drugi element
+
+- Pierwszy element
+- Drugi element
+
+Pojęcie
+    Definicja
 
 .. image:: https://picsum.photos/536/354
-   :alt: Przykładowy obrazek
-   :width: 600px
-   :align: center
-   :caption: "Przykładowy obrazek z opisem."
+   :alt: xd
 
-Tabela
-======
-
-+-------------+--------------+---------------+
-| Kolumna 1   | Kolumna 2    | Kolumna 3     |
-+=============+==============+===============+
-| Wiersz 1    | Wartość 1    | Wartość 2     |
-+-------------+--------------+---------------+
-| Wiersz 2    | Wartość 3    | Wartość 4     |
-+-------------+--------------+---------------+
++-------------+------------+
+| Kolumna 1   | Kolumna 2  |
++=============+============+
+| Wiersz 1.1  | Wiersz 1.2 |
++-------------+------------+
+| Wiersz 2.1  | Wiersz 2.2 |
++-------------+------------+

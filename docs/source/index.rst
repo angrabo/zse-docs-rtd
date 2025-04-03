@@ -18,6 +18,8 @@ Contents
 
 
 .. toctree::
+   :maxdepth: 1
+   :caption: tresc spisu
 
    superstrona
    autor
